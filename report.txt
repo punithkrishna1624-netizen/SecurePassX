@@ -1,0 +1,5 @@
+SecurePassX Report
+
+Password Strength: STRONG (8/10)
+Suggestion: Use at least 12 characters
+
