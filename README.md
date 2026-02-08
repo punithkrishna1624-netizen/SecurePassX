@@ -41,7 +41,7 @@ SecurePassX/
 
 Clone the repository:
 
-git clone https://github.com/your-username/SecurePassX.git
+git clone https://github.com/punithkrishna1624-netizen/SecurePassX.git
 
 
 Move into the project directory:
